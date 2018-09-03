@@ -8,5 +8,9 @@ public class test {
         System.out.println("这是git的测试");
         System.out.println("这是git的测试");
         System.out.println("这是git的测试");
+
+        int a  = 10;
+
+        System.out.println(a);
     }
 }
