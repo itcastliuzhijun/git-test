@@ -13,4 +13,8 @@ public class test {
 
         System.out.println(a);
     }
+
+    public static void test(){
+        System.out.println("1111111111111");
+    }
 }
